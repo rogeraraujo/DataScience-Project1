@@ -1,6 +1,6 @@
 Project goals
 =============
-The main goal of this project is to analyze crime data for the city of Montgomery (US).
+The main goal of this project is to analyze crime data from Montgomery County, MD (USA).
 
 Insights and conclusions
 ========================
