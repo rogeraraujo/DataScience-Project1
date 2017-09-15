@@ -1,6 +1,6 @@
 Project goals
 =============
-The main goal of this project is to analyze crime data for the city of Montgomery (US).
+The main goal of this project is to analyze crime data from Montgomery County, MD (USA).
 
 Insights and conclusions
 ========================
@@ -33,7 +33,9 @@ Matplotlib (http://matplotlib.org/)
 
 The team
 ========
-Eduardo Santos
-Hilário Castro
-Roger Araújo
+Eduardo Santos - 20161025520
+
+Hilário Castro - 20161023042
+
+Roger Araújo - 20171002968
 
