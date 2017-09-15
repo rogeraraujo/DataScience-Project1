@@ -33,7 +33,9 @@ Matplotlib (http://matplotlib.org/)
 
 The team
 ========
-Eduardo Santos
-Hilário Castro
-Roger Araújo
+Eduardo Santos - 20161025520
+
+Hilário Castro - 20161023042
+
+Roger Araújo - 20171002968
 
